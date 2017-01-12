@@ -14,7 +14,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 [![](https://images.microbadger.com/badges/version/lsioarmhf/radarr-aarch64.svg)](https://microbadger.com/images/lsioarmhf/radarr-aarch64 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/radarr-aarch64.svg)](http://microbadger.com/images/lsioarmhf/radarr-aarch64 "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/radarr-aarch64.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/radarr-aarch64.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-arm64/lsioarm64-radarr)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-arm64/job/lsioarm64-radarr/)
 [hub]: https://hub.docker.com/r/lsioarmhf/radarr-aarch64/
 
-A fork of Sonarr which aims to turn it into something like Couchpotato.
+[Radarr][radarrurl] - A fork of Sonarr to work with movies à la Couchpotato.
 
 [![radarr](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/radarr.png)][radarrurl]
 [radarrurl]: https://github.com/Radarr/Radarr
