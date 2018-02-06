@@ -1,4 +1,4 @@
-"FROM lsiobase/mono.arm64
+FROM lsiobase/mono.arm64
 
 # set version label
 ARG BUILD_DATE
